@@ -40,7 +40,6 @@ function SignUp() {
       setError(data.message);
     }
 
-
   }
   console.log(formData);
   return (
